@@ -1,2 +1,13 @@
-# SVM_MNIST
-A machine learning project implementing a Support Vector Machine (SVM) classifier on the MNIST handwritten digits dataset. The notebook covers data preprocessing, model training with scikit-learn, and evaluation of classification performance, including accuracy and visualizations of predictions.
+# MNIST SVM Classifier  
+This project implements a Support Vector Classifier (SVC) on the MNIST dataset.  
+- Preprocesses handwritten digit images  
+- Trains an SVM model using scikit-learn  
+- Evaluates accuracy on test data  
+
+## Tech Stack  
+- Python  
+- scikit-learn  
+- NumPy, Matplotlib  
+
+## Usage  
+Open and run `SVC_MNIST.ipynb` in Jupyter Notebook or Google Colab.  
